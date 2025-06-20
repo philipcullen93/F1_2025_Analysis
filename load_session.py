@@ -1,3 +1,3 @@
 import fastf1
-event = fastf1.get_event(2024, 1)
+event = fastf1.get_event(2025, 1)
 print(event)
